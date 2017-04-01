@@ -145,7 +145,8 @@ footer p {
         font-size: 1.25em;
         font-weight: 400;
         letter-spacing: 3px;
-        color: #fff;
+        /*color: #fff;*/
+        color: #A1CDF1;
     }
 
     .navbar {
