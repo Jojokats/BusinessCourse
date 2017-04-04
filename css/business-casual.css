@@ -110,6 +110,11 @@ footer {
 footer p {
     margin: 0;
     padding: 50px 0;
+    color: #CBD4C2;
+}
+
+#footertext {
+    font-size: 1.5rem;
 }
 
 @media screen and (min-width:768px) {
